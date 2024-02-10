@@ -12,4 +12,4 @@ I am a student of Samara National Research University on the course Information 
 <br/>  
 
 
-[![<DrowCode>'s LeetCode Stats](https://leetcode-stats.vercel.app/api?username<DrowCode>&theme=<Dark>)](https://github.com/JeremyTsaii/leetcode-stats)
+[![DrowCode's LeetCode Stats](https://leetcode-stats.vercel.app/api?usernameDrowCode&theme=<Dark>)]
