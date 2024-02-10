@@ -10,3 +10,6 @@ I am a student of Samara National Research University on the course Information 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drowchik&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
+
+
+[![<DrowCode>'s LeetCode Stats](https://leetcode-stats.vercel.app/api?username<DrowCode>&theme=<Dark>)](https://github.com/JeremyTsaii/leetcode-stats)
